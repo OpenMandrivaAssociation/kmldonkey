@@ -8,7 +8,7 @@ Version:	2.0.7
 Release:	3
 License:	GPL
 Group:		Graphical desktop/KDE
-URL:		http://extragear.kde.org/apps/kmldonkey/
+URL:		https://extragear.kde.org/apps/kmldonkey/
 Source0:	%{name}-%{version}.tar.bz2
 BuildRequires:	kde4-macros
 BuildRequires:	kdelibs4-devel
