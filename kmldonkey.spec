@@ -10,6 +10,7 @@ License:	GPL
 Group:		Graphical desktop/KDE
 URL:		https://extragear.kde.org/apps/kmldonkey/
 Source0:	%{name}-%{version}.tar.bz2
+BuildRequires:	make
 BuildRequires:	kde4-macros
 BuildRequires:	kdelibs4-devel
 Requires:	mldonkey
